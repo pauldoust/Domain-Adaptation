@@ -1,2 +1,6 @@
 # Domain-Adaptation
-Domain Adaptation Execrises
+## Mohammad Poul Doust
+###Domain Adaptation benchmarks using:
+- Subspace alignment 
+- Entropic regularized optimal transport
+- Sinkhorn Iterative Algorithm
